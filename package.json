@@ -3,16 +3,13 @@
   "version": "1.0.1",
   "description": "Babel react preset for ClosedInterval",
   "main": "index.js",
-  "scripts": {
-    "prepublish": "bash util/prepublish.sh"
-  },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.weikinhuang.com:8722/closedinterval/babel-preset-react.git"
+    "url": "https://github.com/weikinhuang/babel-react-preset-closedinterval.git"
   },
   "author": "Wei Kin Huang",
   "license": "MIT",
-  "homepage": "https://git.weikinhuang.com/closedinterval/babel-preset-react",
+  "homepage": "https://github.com/weikinhuang/babel-react-preset-closedinterval",
   "engines": {
     "npm": ">=3.0.0"
   },
